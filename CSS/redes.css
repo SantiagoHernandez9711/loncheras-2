@@ -1,0 +1,39 @@
+.red{
+    position: fixed;
+    top: 200px;
+    z-index: 100;
+    left: 0;
+}
+#Facebook a{
+    background: #3b5998;
+    padding: 10px 20px;
+    color: #fff;
+    text-decoration: none;
+    transition: all .9s ease;
+}
+#Facebook a:hover{
+    background: black;
+    padding: 10px 50px;
+}
+#Twitter a{
+    background: #55acee;
+    padding: 10px 20px;
+    color: #fff;
+    text-decoration: none;
+    transition: all .9s ease;
+}
+#Twitter a:hover{
+    background: black;
+    padding: 10px 50px;
+}
+#Correo a{
+    background: #dd4b39;
+    padding: 10px 20px;
+    color: #fff;
+    text-decoration: none;
+    transition: all .9s ease;
+}
+#Correo a:hover{
+    background: black;
+    padding: 10px 50px;
+}

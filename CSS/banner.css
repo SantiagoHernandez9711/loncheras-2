@@ -1,0 +1,32 @@
+.banner-1{
+    width: 100%;
+    background: #FA8072;
+    clear: both;
+    padding-top: 50px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 50px;
+    text-align: center;
+    box-sizing: border-box;
+    margin-top: 15px;
+    transition: .9s;
+}
+.banner-1 h2{
+    color: white;
+    font-size: 35px;
+}
+.banner-1 h2 a{
+    text-decoration: none;
+    font-size: 35px;
+    color: white;
+    font-family: initial;
+    margin-top: 20px;
+}
+.banner-1:hover{
+    background: #444;
+    transition: .10s;
+}
+.banner-1 a:hover{
+    color: red;
+    transition: 0.9;;
+}
